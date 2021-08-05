@@ -1,5 +1,5 @@
 <b>About</b><br>
-Write your name with stars.
+Write your name with stars!
 
 <b>Description</b><br>
 I created it just for fun. Whatever string would be given, that'd be get printed with asterisks.
